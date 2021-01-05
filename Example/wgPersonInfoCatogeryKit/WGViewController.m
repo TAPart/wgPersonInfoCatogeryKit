@@ -7,6 +7,7 @@
 //
 
 #import "WGViewController.h"
+#import <CTMediator+TAPersonInfo.h>
 
 @interface WGViewController ()
 
